@@ -3,8 +3,8 @@ from datetime import datetime, timedelta
 
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="281273",
+    user="your_user_name",
+    password="your_password",
     database="library_management"
 )
 cursor = conn.cursor(buffered=True)
