@@ -28,7 +28,7 @@ pip install mysql-connector-python
 ```
 ### 2. Set Up the Database
 - Open MySQL and create a new database (e.g., `library_db`)
-- Create the necessary tables based on the structure shown in the ER diagrams/screenshots
+- Create the necessary tables based on the structure
 - Update the database connection details (host, username, password, database name) in `backend.py`
 ### 3. Run the Application
 To launch the main GUI interface:
