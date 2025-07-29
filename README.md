@@ -11,7 +11,6 @@ This system helps librarians and students manage:
 - GUI for Librarian and Student using `tkinter`
 - Backend logic using Python
 - Database connectivity with MySQL (via mysql-connector)
-- Screenshots and ER diagrams included
 
 ## Technologies Used
 - Python
